@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.96deef74.css",
+    "main.js": "/static/js/main.85152c63.js",
+    "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
+    "static/media/banner-img.png": "/static/media/banner-img.4e336c9f4a933edf7c5e.png",
+    "static/media/service2.png": "/static/media/service2.75a2a17419d91cdfc1c1.png",
+    "static/media/service5.png": "/static/media/service5.b51d56700d2d055a9e32.png",
+    "static/media/service4.png": "/static/media/service4.1795578c28cc2fc4b620.png",
+    "static/media/service1.png": "/static/media/service1.73a7ba25fd27b6ff5b42.png",
+    "static/media/service6.png": "/static/media/service6.6493a27bfb4baaccefb7.png",
+    "static/media/service3.png": "/static/media/service3.22ff8cbf4c888978eb2a.png",
+    "static/media/testi.png": "/static/media/testi.cd58de6dabffab9d18e3.png",
+    "static/media/FontsFree-Net-SFProText-Medium-1.ttf": "/static/media/FontsFree-Net-SFProText-Medium-1.fc3c323b3b2bb1c643ee.ttf",
+    "static/media/sf-text-pro.ttf": "/static/media/sf-text-pro.90da7ab18293ca42e335.ttf",
+    "static/media/about-back.png": "/static/media/about-back.6ff8865843494a7d9904.png",
+    "static/media/abt-pic.png": "/static/media/abt-pic.b1d6368a327abb7ccab5.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.96deef74.css.map": "/static/css/main.96deef74.css.map",
+    "main.85152c63.js.map": "/static/js/main.85152c63.js.map",
+    "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96deef74.css",
+    "static/js/main.85152c63.js"
+  ]
+}
