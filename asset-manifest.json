@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0789a6f.css",
-    "main.js": "/static/js/main.804152fd.js",
+    "main.css": "/static/css/main.82b4b7d0.css",
+    "main.js": "/static/js/main.d2c098da.js",
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
     "static/media/banner-img.png": "/static/media/banner-img.4e336c9f4a933edf7c5e.png",
     "static/media/interim.webp": "/static/media/interim.bffdbd21ee629c51f6c3.webp",
@@ -17,6 +17,7 @@
     "static/media/service4.png": "/static/media/service4.1795578c28cc2fc4b620.png",
     "static/media/newsdetailimg.png": "/static/media/newsdetailimg.70e689e9635a27658477.png",
     "static/media/Experience-img.png": "/static/media/Experience-img.aed1b4d2b3ad4f0fbec0.png",
+    "static/media/patents.png": "/static/media/patents.6098521b00a47db167f5.png",
     "static/media/trustee.png": "/static/media/trustee.555dd88ce1bd7664b536.png",
     "static/media/Business.png": "/static/media/Business.42066c5554ad896fb317.png",
     "static/media/Lt.png": "/static/media/Lt.e34b81f3e5a712d7670c.png",
@@ -34,6 +35,7 @@
     "static/media/corpo.png": "/static/media/corpo.43bb034bcbe6d04059a3.png",
     "static/media/debtorss.png": "/static/media/debtorss.ab172ef6f5b723e9a8b9.png",
     "static/media/testi.png": "/static/media/testi.cd58de6dabffab9d18e3.png",
+    "static/media/know.png": "/static/media/know.81ac864a424a47828dd9.png",
     "static/media/benefit.png": "/static/media/benefit.6e3d115b4611ee7a7a13.png",
     "static/media/manage.png": "/static/media/manage.1cafa1bc7b7fb5564d87.png",
     "static/media/FontsFree-Net-SFProText-Medium-1.ttf": "/static/media/FontsFree-Net-SFProText-Medium-1.fc3c323b3b2bb1c643ee.ttf",
@@ -44,6 +46,7 @@
     "static/media/ser1-img.png": "/static/media/ser1-img.e34678af322d2cd4d9df.png",
     "static/media/ml.png": "/static/media/ml.8c498b260e3384ca0883.png",
     "static/media/receiving.png": "/static/media/receiving.b38b50d85513bcad50f4.png",
+    "static/media/trademark.png": "/static/media/trademark.47586c374cffab1eb538.png",
     "static/media/sfimg.png": "/static/media/sfimg.c48034f19279095729eb.png",
     "static/media/gallery12.png": "/static/media/gallery12.bc8e804572054baeb2b1.png",
     "static/media/Advisory4.png": "/static/media/Advisory4.e908bd54f85fbd9f3324.png",
@@ -72,6 +75,7 @@
     "static/media/lt3.png": "/static/media/lt3.49e7e7746ca1ef37f653.png",
     "static/media/strateg.png": "/static/media/strateg.752649188666127ec2dc.png",
     "static/media/pur.png": "/static/media/pur.a18e94cb8bb034e55aa6.png",
+    "static/media/copyrights.png": "/static/media/copyrights.73390cf35a426ab70a6e.png",
     "static/media/serv3.png": "/static/media/serv3.7b1336d59e2b46de7d44.png",
     "static/media/serv7.png": "/static/media/serv7.c3e6c9c0b68c199b4384.png",
     "static/media/owners.png": "/static/media/owners.19add53b1a04256ba5aa.png",
@@ -103,12 +107,12 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.c0789a6f.css.map": "/static/css/main.c0789a6f.css.map",
-    "main.804152fd.js.map": "/static/js/main.804152fd.js.map",
+    "main.82b4b7d0.css.map": "/static/css/main.82b4b7d0.css.map",
+    "main.d2c098da.js.map": "/static/js/main.d2c098da.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0789a6f.css",
-    "static/js/main.804152fd.js"
+    "static/css/main.82b4b7d0.css",
+    "static/js/main.d2c098da.js"
   ]
 }
