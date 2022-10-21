@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f5da424.css",
-    "main.js": "/static/js/main.2258dde0.js",
+    "main.css": "/static/css/main.e3af5635.css",
+    "main.js": "/static/js/main.b98b0557.js",
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
     "static/media/singleimg18.jpg": "/static/media/singleimg18.582bc289447daebfc6fb.jpg",
     "static/media/singleimg26.webp": "/static/media/singleimg26.51dbd1c7d8ecc2205d2e.webp",
@@ -13,6 +13,7 @@
     "static/media/banner1.jpg": "/static/media/banner1.c331a7660d85707c2121.jpg",
     "static/media/singleimg24.webp": "/static/media/singleimg24.4b867989d92f956e3ffa.webp",
     "static/media/23.webp": "/static/media/23.9531879b8ac4014c20ba.webp",
+    "static/media/loading.gif": "/static/media/loading.1725a080da125a74604d.gif",
     "static/media/banner4.jpg": "/static/media/banner4.1a75d9a095d3d1714d66.jpg",
     "static/media/9.webp": "/static/media/9.809b873ca2cfdc6200a6.webp",
     "static/media/cash.webp": "/static/media/cash.3322f36d0efff2e76f9c.webp",
@@ -198,12 +199,12 @@
     "static/media/dollar.webp": "/static/media/dollar.c3f43be7302de48de00e.webp",
     "static/media/ft-logo.webp": "/static/media/ft-logo.52c11fc8358f320be512.webp",
     "static/media/share.webp": "/static/media/share.6a093c8e1b8e76073424.webp",
-    "main.0f5da424.css.map": "/static/css/main.0f5da424.css.map",
-    "main.2258dde0.js.map": "/static/js/main.2258dde0.js.map",
+    "main.e3af5635.css.map": "/static/css/main.e3af5635.css.map",
+    "main.b98b0557.js.map": "/static/js/main.b98b0557.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f5da424.css",
-    "static/js/main.2258dde0.js"
+    "static/css/main.e3af5635.css",
+    "static/js/main.b98b0557.js"
   ]
 }
