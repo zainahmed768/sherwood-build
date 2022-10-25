@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.87fcd437.css",
-    "main.js": "/static/js/main.beea9b87.js",
+    "main.css": "/static/css/main.0a9ec198.css",
+    "main.js": "/static/js/main.053230fa.js",
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
+    "static/media/ex.jpg": "/static/media/ex.5654f3f8d89f8ccfaa89.jpg",
     "static/media/cop.jpg": "/static/media/cop.d13727f0f63d381828f7.jpg",
     "static/media/singleimg18.jpg": "/static/media/singleimg18.582bc289447daebfc6fb.jpg",
     "static/media/singleimg26.webp": "/static/media/singleimg26.51dbd1c7d8ecc2205d2e.webp",
@@ -59,10 +60,12 @@
     "static/media/singleimg13.webp": "/static/media/singleimg13.28d38f207d475d088f6c.webp",
     "static/media/2.webp": "/static/media/2.3c22dc2b060178a16488.webp",
     "static/media/singleimg17.webp": "/static/media/singleimg17.47cc1e953ee34322db92.webp",
+    "static/media/picman.jpg": "/static/media/picman.3cf9a596795708e0d429.jpg",
     "static/media/banimg.webp": "/static/media/banimg.04fddd871acbe2449cb8.webp",
     "static/media/13.webp": "/static/media/13.a5ba6f5b834dfc4a18ea.webp",
     "static/media/trustee.webp": "/static/media/trustee.149a311317d6cbab097b.webp",
     "static/media/singleimg14.webp": "/static/media/singleimg14.050f98041627a30d9ece.webp",
+    "static/media/andrew.png": "/static/media/andrew.f47126f802ee7b71fc9f.png",
     "static/media/ser1-img.webp": "/static/media/ser1-img.2fd8f78281455f5dd423.webp",
     "static/media/expic.webp": "/static/media/expic.6f6ed327cf4dff4acb76.webp",
     "static/media/blogdetail7.webp": "/static/media/blogdetail7.5162ab863b8cdb093ab2.webp",
@@ -192,20 +195,20 @@
     "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "static/media/managerNoPicture.webp": "/static/media/managerNoPicture.ae030fdc8a3876dbab58.webp",
-    "static/media/NoPicture.webp": "/static/media/NoPicture.d14c9cde963504f84ceb.webp",
     "index.html": "/index.html",
+    "static/media/NoPicture.webp": "/static/media/NoPicture.d14c9cde963504f84ceb.webp",
     "static/media/promanager.webp": "/static/media/promanager.c535f44ad5fb7c38bb3f.webp",
     "static/media/linkedin.webp": "/static/media/linkedin.60a19afcc41b71189919.webp",
     "static/media/clock.webp": "/static/media/clock.6fd429982279153bd865.webp",
     "static/media/dollar.webp": "/static/media/dollar.c3f43be7302de48de00e.webp",
     "static/media/ft-logo.webp": "/static/media/ft-logo.52c11fc8358f320be512.webp",
     "static/media/share.webp": "/static/media/share.6a093c8e1b8e76073424.webp",
-    "main.87fcd437.css.map": "/static/css/main.87fcd437.css.map",
-    "main.beea9b87.js.map": "/static/js/main.beea9b87.js.map",
+    "main.0a9ec198.css.map": "/static/css/main.0a9ec198.css.map",
+    "main.053230fa.js.map": "/static/js/main.053230fa.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87fcd437.css",
-    "static/js/main.beea9b87.js"
+    "static/css/main.0a9ec198.css",
+    "static/js/main.053230fa.js"
   ]
 }
