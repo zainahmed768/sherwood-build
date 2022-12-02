@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.475f2505.css",
     "main.js": "/static/js/main.59df8f47.js",
+=======
+    "main.css": "/static/css/main.11033936.css",
+    "main.js": "/static/js/main.9c166842.js",
+>>>>>>> e18b7f812a5baf12dc544aaee4e515a09498f25a
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
     "static/media/ex.jpg": "/static/media/ex.5654f3f8d89f8ccfaa89.jpg",
     "static/media/cop.jpg": "/static/media/cop.d13727f0f63d381828f7.jpg",
@@ -206,6 +211,7 @@
     "static/media/dollar.webp": "/static/media/dollar.c3f43be7302de48de00e.webp",
     "static/media/ft-logo.webp": "/static/media/ft-logo.52c11fc8358f320be512.webp",
     "static/media/share.webp": "/static/media/share.6a093c8e1b8e76073424.webp",
+<<<<<<< HEAD
     "main.475f2505.css.map": "/static/css/main.475f2505.css.map",
     "main.59df8f47.js.map": "/static/js/main.59df8f47.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
@@ -213,5 +219,14 @@
   "entrypoints": [
     "static/css/main.475f2505.css",
     "static/js/main.59df8f47.js"
+=======
+    "main.11033936.css.map": "/static/css/main.11033936.css.map",
+    "main.9c166842.js.map": "/static/js/main.9c166842.js.map",
+    "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11033936.css",
+    "static/js/main.9c166842.js"
+>>>>>>> e18b7f812a5baf12dc544aaee4e515a09498f25a
   ]
 }
