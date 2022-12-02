@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.0cccb61c.css",
-    "main.js": "/static/js/main.fe29aa7c.js",
+    "main.css": "/static/css/main.475f2505.css",
+    "main.js": "/static/js/main.59df8f47.js",
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
     "static/media/ex.jpg": "/static/media/ex.5654f3f8d89f8ccfaa89.jpg",
     "static/media/cop.jpg": "/static/media/cop.d13727f0f63d381828f7.jpg",
     "static/media/singleimg18.jpg": "/static/media/singleimg18.582bc289447daebfc6fb.jpg",
     "static/media/singleimg26.webp": "/static/media/singleimg26.51dbd1c7d8ecc2205d2e.webp",
     "static/media/25.webp": "/static/media/25.a074e56871409025c286.webp",
-    "static/media/pichison.png": "/static/media/pichison.29f250d5bf97ce28fb4a.png",
+    "static/media/debtnew.jpeg": "/static/media/debtnew.f9a49ab044ec060494d4.jpeg",
     "static/media/14.webp": "/static/media/14.ea4d07a630298ac4d94f.webp",
     "static/media/singleimg27.webp": "/static/media/singleimg27.ce492deece5ed0374315.webp",
     "static/media/interim.webp": "/static/media/interim.2a69838c48b3c89a3145.webp",
@@ -33,6 +33,7 @@
     "static/media/sf-text-pro.ttf": "/static/media/sf-text-pro.90da7ab18293ca42e335.ttf",
     "static/media/8.webp": "/static/media/8.4c891b7e9c6ae5785b20.webp",
     "static/media/21.webp": "/static/media/21.fa907ba2a7f532dde81f.webp",
+    "static/media/singleimg17.webp": "/static/media/singleimg17.0007264f53d3a58667f7.webp",
     "static/media/16.webp": "/static/media/16.1990f23a48b3e5d81c3f.webp",
     "static/media/22.webp": "/static/media/22.1391df181f6a17f43bff.webp",
     "static/media/singleimg9.webp": "/static/media/singleimg9.828fbd49157785daaf8c.webp",
@@ -61,13 +62,13 @@
     "static/media/singleimg20.webp": "/static/media/singleimg20.89a6dfbba578f9c82b23.webp",
     "static/media/singleimg13.webp": "/static/media/singleimg13.28d38f207d475d088f6c.webp",
     "static/media/2.webp": "/static/media/2.3c22dc2b060178a16488.webp",
-    "static/media/singleimg17.webp": "/static/media/singleimg17.47cc1e953ee34322db92.webp",
     "static/media/picman.jpg": "/static/media/picman.3cf9a596795708e0d429.jpg",
     "static/media/banimg.webp": "/static/media/banimg.04fddd871acbe2449cb8.webp",
     "static/media/13.webp": "/static/media/13.a5ba6f5b834dfc4a18ea.webp",
     "static/media/trustee.webp": "/static/media/trustee.149a311317d6cbab097b.webp",
     "static/media/singleimg14.webp": "/static/media/singleimg14.050f98041627a30d9ece.webp",
     "static/media/andrew.png": "/static/media/andrew.f47126f802ee7b71fc9f.png",
+    "static/media/pichison.webp": "/static/media/pichison.0fd0fd40638c54815064.webp",
     "static/media/ser1-img.webp": "/static/media/ser1-img.2fd8f78281455f5dd423.webp",
     "static/media/expic.webp": "/static/media/expic.6f6ed327cf4dff4acb76.webp",
     "static/media/blogdetail7.webp": "/static/media/blogdetail7.5162ab863b8cdb093ab2.webp",
@@ -205,12 +206,12 @@
     "static/media/dollar.webp": "/static/media/dollar.c3f43be7302de48de00e.webp",
     "static/media/ft-logo.webp": "/static/media/ft-logo.52c11fc8358f320be512.webp",
     "static/media/share.webp": "/static/media/share.6a093c8e1b8e76073424.webp",
-    "main.0cccb61c.css.map": "/static/css/main.0cccb61c.css.map",
-    "main.fe29aa7c.js.map": "/static/js/main.fe29aa7c.js.map",
+    "main.475f2505.css.map": "/static/css/main.475f2505.css.map",
+    "main.59df8f47.js.map": "/static/js/main.59df8f47.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cccb61c.css",
-    "static/js/main.fe29aa7c.js"
+    "static/css/main.475f2505.css",
+    "static/js/main.59df8f47.js"
   ]
 }
