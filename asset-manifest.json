@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.26c2612c.css",
-    "main.js": "/static/js/main.a12f2e53.js",
+    "main.js": "/static/js/main.aa0515b7.js",
     "static/js/787.e83e6359.chunk.js": "/static/js/787.e83e6359.chunk.js",
     "static/media/ex.jpg": "/static/media/ex.5654f3f8d89f8ccfaa89.jpg",
     "static/media/cop.jpg": "/static/media/cop.d13727f0f63d381828f7.jpg",
@@ -72,6 +72,7 @@
     "static/media/ser1-img.webp": "/static/media/ser1-img.2fd8f78281455f5dd423.webp",
     "static/media/expic.webp": "/static/media/expic.6f6ed327cf4dff4acb76.webp",
     "static/media/blogdetail7.webp": "/static/media/blogdetail7.5162ab863b8cdb093ab2.webp",
+    "static/media/newfooterlogo.png": "/static/media/newfooterlogo.3bc4474abcef776a1699.png",
     "static/media/pur.webp": "/static/media/pur.0e17877024aab104d4e7.webp",
     "static/media/3.webp": "/static/media/3.60fef79a8341e3753ed7.webp",
     "static/media/singleimg4.webp": "/static/media/singleimg4.45471ce2b50c7231a991.webp",
@@ -207,11 +208,11 @@
     "static/media/ft-logo.webp": "/static/media/ft-logo.52c11fc8358f320be512.webp",
     "static/media/share.webp": "/static/media/share.6a093c8e1b8e76073424.webp",
     "main.26c2612c.css.map": "/static/css/main.26c2612c.css.map",
-    "main.a12f2e53.js.map": "/static/js/main.a12f2e53.js.map",
+    "main.aa0515b7.js.map": "/static/js/main.aa0515b7.js.map",
     "787.e83e6359.chunk.js.map": "/static/js/787.e83e6359.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26c2612c.css",
-    "static/js/main.a12f2e53.js"
+    "static/js/main.aa0515b7.js"
   ]
 }
