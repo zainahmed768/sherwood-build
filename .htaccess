@@ -18,13 +18,9 @@ Options -Indexes
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 
-    <Files .env>
-        Order allow,deny
-        Deny from all
-    </Files>
-   <Files .git>
-            Order allow,deny
-            Deny from all
-   </Files>
+Order allow,deny
+Deny from all
+
+
 </IfModule>
 
