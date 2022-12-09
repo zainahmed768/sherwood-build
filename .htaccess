@@ -6,13 +6,14 @@
     # Disable index view
 Options -Indexes
 
-# Hide a specific file
-<Files .env>
-    Order allow,deny
-    Deny from all
-</Files>
 
-<Files .git>
-    Order allow,deny
-    Deny from all
-</Files>
+
+
+<!-- 
+# protect .htaccess
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+	Order allow,deny
+	Deny from all
+	Satisfy all
+</Files> -->
+
