@@ -11,7 +11,7 @@ Options -Indexes
 
  
 # protect .htaccess
-<Files ~ "^.*\.([Hh][Tt][Aa])">
+<Files ~ "^.*\.([Ee][Nn][Vv])">
 	Order allow,deny
 	Deny from all
 	Satisfy all
