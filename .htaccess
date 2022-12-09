@@ -7,15 +7,24 @@
 Options -Indexes
 
 
-Order Deny,Allow
-Allow from all
-Deny from 167.172.27.245
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
 
-<!-- 
-# protect .htaccess
-<Files ~ "^.*\.([Hh][Tt][Aa])">
-	Order allow,deny
-	Deny from all
-	Satisfy all
-</Files> 
+    RewriteEngine On
+    # Send Requests To Front Controller...
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteRule ^ index.php [L]
+
+    <Files .env>
+        Order allow,deny
+        Deny from all
+    </Files>
+   <Files .git>
+            Order allow,deny
+            Deny from all
+   </Files>
+</IfModule>
 
