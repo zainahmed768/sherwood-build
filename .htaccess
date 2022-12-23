@@ -1,6 +1,7 @@
  Options -MultiViews
     RewriteEngine On
     RewriteCond %{REQUEST_FILENAME} !-f
+<<<<<<< HEAD
     RewriteRule ^ index.html [QSA,L]
 
 #     # Disable index view
@@ -24,3 +25,6 @@
 
 # </IfModule> 
 
+=======
+    RewriteRule ^ index.html [QSA,L]
+>>>>>>> 55d657cb9dfdf36a3bd2067dfc6805f558562054
