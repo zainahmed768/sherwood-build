@@ -3,24 +3,24 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.html [QSA,L]
 
-    # Disable index view
-Options -Indexes
+#     # Disable index view
+# Options -Indexes
+
+ 
+# <IfModule mod_rewrite.c>
+#     <IfModule mod_negotiation.c>
+#         Options -MultiViews -Indexes
+#     </IfModule>
+# <!-- 
+#     RewriteEngine On
+#     # Send Requests To Front Controller...
+#     RewriteCond %{REQUEST_FILENAME} !-d
+#     RewriteCond %{REQUEST_FILENAME} !-f
+#     RewriteRule ^ index.php [L] -->
+# <!-- 
+# Order allow,deny
+# Deny from all -->
 
 
-<IfModule mod_rewrite.c>
-    <IfModule mod_negotiation.c>
-        Options -MultiViews -Indexes
-    </IfModule>
-
-    RewriteEngine On
-    # Send Requests To Front Controller...
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteRule ^ index.php [L]
-
-Order allow,deny
-Deny from all
-
-
-</IfModule>
+# </IfModule> 
 
